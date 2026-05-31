@@ -2,6 +2,9 @@
 
 A modern and responsive authentication interface built with HTML, CSS, and JavaScript.
 
+## Live Demo
+[View Website](https://ultrachelleh.github.io/responsive-login-signup-page/)
+
 ## Preview
 
 ### Desktop — Sign Up
