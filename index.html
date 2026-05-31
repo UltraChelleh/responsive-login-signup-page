@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta 
+           name="viewport"
+           content="width=device-width, initial-scale=1.0">
+
+        <title>Signup/Login Page</title>
+
+          <!-- styles/css link -->
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+
+    <body>
+
+        <main class="auth-container">
+
+            <section class="auth-card">
+
+                <!-- SignUp -->
+
+                <div id="signup-form">
+
+                    <header class="auth-header">
+
+                        <h1>Create Account</h1>
+                        <p>Join our community today</p>
+
+                    </header>
+
+                    <form>
+
+                        <div class="form-group">
+
+                            <label for="signup-name">
+                                Username
+                            </label>
+
+                            <input
+                               type="text"
+                               id="signup-name"
+                               placeholder="Enter username">
+
+                        </div>
+
+                        <div class="form-group">
+
+                            <label for="signup-email">
+                                Email
+                            </label>
+
+                            <input
+                               type="email"
+                               id="signup-email"
+                               placeholder="Enter email">
+
+                        </div>
+
+                        <div class="form-group">
+                            
+                            <label for="signup-password">
+                                Password
+                            </label>
+
+                            <input
+                                type="password"
+                                id="signup-password"
+                                placeholder="Enter passsword">
+
+                        </div>
+
+                        <button type="submit">
+                            Create Account
+                        </button>
+
+                    </form>
+                    
+                    <p class="switch-form">
+
+                        Already have an account?
+
+                        <a href="#" id="show-login">Login</a>
+                        
+                    </p>
+
+                </div>
+
+                <!-- Login -->
+
+                <div 
+                   id="login-form"
+                   class="hidden">
+
+                   <header class="auth-header">
+
+                     <h1>Welcome back</h1>
+                     <p>Login to continue</p>
+
+                   </header>
+
+                   <form>
+
+                    <div class="form-group">
+                        
+                        <label for="login-email">
+                            Email
+                        </label>
+
+                        <input
+                           type="email"
+                           id="login-email"
+                           placeholder="Enter email">
+
+                    </div>
+
+                    <div class="form-group">
+
+                        <label for="login-password">
+                            Password
+                        </label>
+
+                        <input
+                           type="password"
+                           id="login-password"
+                           placeholder="Enter password">
+
+                    </div>
+
+                    <button type="submit">
+                        Login
+                    </button>
+
+                   </form>
+
+                   <p class="switch-form">
+
+                     Don't have an account?
+
+                    <a href="#" id="show-signup">Sign Up</a>
+
+                   </p>
+
+                </div>
+
+            </section>
+
+        </main>
+
+        <footer class="footer"> 
+            <p>Designed &amp; Coded by &lt;CH☕︎/&gt;</p>
+        </footer>
+
+        <!--Java Script-->
+
+        <script src="./js/script.js"></script>
+
+    </body>
+
+</html>
