@@ -6,19 +6,19 @@ A modern and responsive authentication interface built with HTML, CSS, and JavaS
 
 ### Desktop — Sign Up
 
-![Desktop Signup](./assets/images/signup-desktop.jpg)
+![Desktop Signup](./assets/images/signup-desktop.jpeg)
 
 ### Desktop — Login
 
-![Desktop Login](./assets/images/login-desktop.jpg)
+![Desktop Login](./assets/images/login-desktop.jpeg)
 
 ### Mobile — Sign Up
 
-![Mobile Signup](./assets/images/signup-mobile.jpg)
+![Mobile Signup](./assets/images/signup-mobile.jpeg)
 
 ### Mobile — Login
 
-![Mobile Login](./assets/images/login-mobile.jpg)
+![Mobile Login](./assets/images/login-mobile.jpeg)
 
 ## Features
 
@@ -51,10 +51,10 @@ login-signup-page/
 │
 └── assets/
     └── images/
-        ├── signup-desktop.jpg
-        ├── login-desktop.jpg
-        ├── signup-mobile.jpg
-        └── login-mobile.jpg
+        ├── signup-desktop.jpeg
+        ├── login-desktop.jpeg
+        ├── signup-mobile.jpeg
+        └── login-mobile.jpeg
 ```
 
 ## Learning Goals
