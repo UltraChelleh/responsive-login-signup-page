@@ -6,19 +6,19 @@ A modern and responsive authentication interface built with HTML, CSS, and JavaS
 
 ### Desktop — Sign Up
 
-![Desktop Signup](./assets/images/signup-desktop.jpg)
+![Desktop Signup](./assets/images/signup-desktop.jepg)
 
 ### Desktop — Login
 
-![Desktop Login](./assets/images/login-desktop.jpg)
+![Desktop Login](./assets/images/login-desktop.jepg)
 
 ### Mobile — Sign Up
 
-![Mobile Signup](./assets/images/signup-mobile.jpg)
+![Mobile Signup](./assets/images/signup-mobile.jepg)
 
 ### Mobile — Login
 
-![Mobile Login](./assets/images/login-mobile.jpg)
+![Mobile Login](./assets/images/login-mobile.jepg)
 
 ## Features
 
